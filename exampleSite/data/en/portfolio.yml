@@ -26,9 +26,8 @@ portfolio:
     image_webp: images/portfolio/1.webp
     categories:
     - Events
-    content: Meeting with Accenture's employees about career opportunities for consulting
-      analyst jobs. Presentation of the reality at Accenture regarding the place of
-      women and the concrete actions implemented to achieve gender parity
+    content: Presentation of the reality at Accenture regarding the place of women
+      and the concrete actions implemented to achieve gender parity
     link: "#"
   - name: Wine and cheese
     image: images/portfolio/Invitation_V&F_Poly-L.jpg
