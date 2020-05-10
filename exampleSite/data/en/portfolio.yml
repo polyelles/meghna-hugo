@@ -1,0 +1,40 @@
+---
+portfolio:
+  enable: true
+  title: Activities
+  portfolio_item:
+  - name: Salary negotiation
+    image: images/portfolio/Affiche_Négo.jpg
+    image_webp: images/portfolio/Affiche_Négo.webp
+    categories:
+    - Conferences
+    content: The aim of this conference is to raise awareness on the impact of the
+      silence surrounding this subject and more particularly for women. You will come
+      out of this event with concrete tips on how to negotiate your salary!
+    link: "#"
+  - name: 'Think Twice '
+    image: images/portfolio/Affiche_ThinkTwice.jpg
+    image_webp: images/portfolio/Affiche_ThinkTwice.webp
+    categories:
+    - Conferences
+    content: Interview on the foundation of a start-up. Discussion about the place
+      of women in a high-tech competition such as "Coopérathon". Workshop on elevators
+      pitch.
+    link: "#"
+  - name: Women in consultation
+    image: images/portfolio/1.jpg
+    image_webp: images/portfolio/1.webp
+    categories:
+    - Events
+    content: Meeting with Accenture's employees about career opportunities for consulting
+      analyst jobs. Presentation of the reality at Accenture regarding the place of
+      women and the concrete actions implemented to achieve gender parity
+    link: "#"
+  - name: Wine and cheese
+    image: images/portfolio/Invitation_V&F_Poly-L.jpg
+    image_webp: images/portfolio/Invitation_V&F_Poly-L.webp
+    categories:
+    - Soiree
+    content: Networking evening to meet a multitude of professionals in various fields
+      of engineering.
+    link: "#"

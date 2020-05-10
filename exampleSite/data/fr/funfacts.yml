@@ -1,0 +1,15 @@
+---
+funfacts:
+  enable: true
+  bg_image: images/backgrounds/607.jpeg
+  bg_image_webp: images/backgrounds/607.webp
+  counter_item:
+  - title: Étudiantes à Polytechnique automne 2019 (%)
+    icon: ti-pie-chart
+    count: 28
+  - title: Montant gagné par une femme sur chaque dollar gagné par un homme
+    icon: ti-money
+    count: 0.87
+  - title: Femmes ingénieures au Québec (%)
+    icon: ti-bar-chart
+    count: 13

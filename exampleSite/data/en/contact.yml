@@ -1,0 +1,19 @@
+---
+contact:
+  enable: true
+  title: Contact Us
+  subtitle: Contact Details
+  content: 'Contact us if you have an interest in collaborating with the committee.
+    If you have any suggestions for activities for us to do or if you have any questions,
+    feel free to write a message. '
+  form_action: "#"
+  contact_details:
+  - icon: ti-location-pin
+    info: Montréal, Québec, Canada
+  - icon: ti-email
+    info: 'Email: polyelles@gmail.com'
+  map:
+    enable: true
+    gmap_api: https://www.google.com/maps/place/Polytechnique+Montréal/@45.5046735,-73.6167907,17z/data=!3m1!4b1!4m5!3m4!1s0x4cc919f2a9fc4d71:0xda267ca95684133e!8m2!3d45.5046698!4d-73.614602
+    map_latitude: '45.505 '
+    map_longitude: "-73.614"

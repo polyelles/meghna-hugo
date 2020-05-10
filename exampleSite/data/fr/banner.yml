@@ -1,0 +1,12 @@
+---
+banner:
+  enable: true
+  bg_image_webp: images/about/membres_tous-1-2.webp
+  bg_image: images/about/membres_tous-1-2.jpeg
+  icon: ''
+  title: 'POLY-L : LEADERSHIP POUR ELLES'
+  content: ''
+  button:
+    enable: true
+    label: Explorez-nous
+    link: "#services"

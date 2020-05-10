@@ -1,0 +1,22 @@
+---
+feature:
+  enable: true
+  image: images/about/DSC_0870 (1).jpeg
+  image_webp: images/about/DSC_0870 (1).webp
+  title: 'Comité étudiant Polytechnique Montréal Université d''Ingénierie '
+  content: 'Atteindre la parité entre l’homme et la femme à tous les niveaux dans
+    le milieu professionnel. '
+  feature_item:
+  - title: PROMOUVOIR
+    icon: ti-angle-double-right
+    content: " le leadership au féminin auprès des étudiants et étudiantes de Polytechnique. "
+  - title: EXPOSER
+    icon: ti-angle-double-right
+    content: les étudiantes à des femmes inspirantes pour renforcer leur ambition.
+  - title: SENSIBILISER
+    icon: ti-angle-double-right
+    content: les étudiants et étudiantes de Polytechnique aux biais cognitifs.
+  - title: CRÉER
+    icon: ti-angle-double-right
+    content: un esprit de collaboration entre les hommes et les femmes en impliquant
+      les hommes dans la réflexion et la solution.

@@ -1,0 +1,23 @@
+---
+service:
+  enable: true
+  title: Implications
+  service_item:
+  - name: 'Projets '
+    icon: ti-world
+    content: Hommes ambassadeurs, Femmes en Sciences, développement personnel et plus
+      encore.
+  - name: Communication
+    icon: ti-announcement
+    content: Création de contenu éducatif afin de sensibiliser la communauté aux différents
+      enjeux associés à la femme, le leadership et à l'ingénierie.
+  - name: Réseautage
+    icon: ti-user
+    content: Activités de lien entreprises-comité dans les bureaux des entreprises
+      et organisation de soirées réseautage.
+  - name: Congrès
+    icon: ti-location-pin
+    content: Participation à un Congrès qui promouvoient la place des femmes.
+  - name: Conférences
+    icon: ti-blackboard
+    content: 'Conférences éducatives liées au enjeux féminins et au leadership. '

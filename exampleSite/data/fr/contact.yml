@@ -1,0 +1,19 @@
+---
+contact:
+  enable: true
+  title: Nous joindre
+  subtitle: 'Contact détails '
+  content: N'hésitez pas à nous écrire si vous avez un intérêt à faire une collaboration
+    avec le comité. Si vous avez des suggestions d'activités pour nous ou pour toutes
+    autres questions.
+  form_action: "#"
+  map:
+    enable: true
+    gmap_api: https://www.google.com/maps/place/Polytechnique+Montréal/@45.5046735,-73.6167907,17z/data=!3m1!4b1!4m5!3m4!1s0x4cc919f2a9fc4d71:0xda267ca95684133e!8m2!3d45.5046698!4d-73.614602
+    map_latitude: '45.505 '
+    map_longitude: "-73.614"
+  contact_details:
+  - icon: ti-location-pin
+    info: Montréal, Québec, Canada
+  - icon: ti-email
+    info: 'Courriel : polyelles@gmail.com'

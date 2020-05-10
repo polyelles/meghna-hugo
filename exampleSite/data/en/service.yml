@@ -1,0 +1,23 @@
+---
+service:
+  enable: true
+  title: Involvements
+  service_item:
+  - name: Projects
+    icon: ti-world
+    content: Men ambassadors, "Femmes en Sciences" (Women in Science), personal development
+      and more.
+  - name: Communication
+    icon: ti-announcement
+    content: Creation of educational content to raise awareness about the various
+      issues associated with women, leadership and engineering.
+  - name: Networking
+    icon: ti-user
+    content: Business-committee activities in offices and organization networking
+      evenings.
+  - name: Conference
+    icon: ti-location-pin
+    content: Participation in conference which promote the place of women.
+  - name: Presentations
+    icon: ti-blackboard
+    content: Educational conferences related to women's issues and leadership.

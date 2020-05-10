@@ -1,0 +1,53 @@
+---
+testimonial:
+  enable: true
+  bg_image: images/backgrounds/704.jpg
+  bg_image_webp: images/backgrounds/704.webp
+  testimonial_item:
+  - name: 'Hélène Delisle '
+    image: images/team/1hélène_3.jpeg
+    image_webp: images/team/1hélène_3.webp
+    date: 'VP Exécutif '
+    content: '"Don''t be afraid to speak up for yourself. Keep fighting for your dreams!"
+      Gabby Douglas'
+  - name: Roséanne Granger
+    image: images/team/1roséanne_7.jpeg
+    image_webp: images/team/1roséanne_7.webp
+    date: VP Marketing
+    content: '"Women belong in all places where decisions are being made. … It shouldn''t
+      be that women are the exception."Ruth Bader Ginsbur'
+  - name: Julie Gervais-Doyon
+    image: images/team/1julie_4.jpg
+    image_webp: images/team/1julie_4.webp
+    date: VP Contenu Web
+    content: '"Life need not be easy, provided only that it is not empty."Lise Meitner'
+  - name: Florence Pelletier
+    image: images/team/1florence_3.jpg
+    image_webp: images/team/1florence_3.webp
+    date: VP Communication
+    content: '"The energy you’ll expend focusing on someone else’s life is better
+      spent working on your own. Just be your own idol." Sophia Amoruso #GirlBoss'
+  - name: Fadia Maya Loucini
+    image: images/team/1maya_6.jpg
+    image_webp: images/team/1maya_6.webp
+    date: 'VP Logistique '
+    content: '"Feminism isn’t about making women strong. Women are already strong.
+      It’s about changing the way the world perceives that strength." G.D. Anderson'
+  - name: 'Fatouma Wafy '
+    image: images/team/1fatouma_1.jpg
+    image_webp: images/team/1fatouma_1.webp
+    date: 'Présidente '
+    content: "\"You fall, get up, make mistakes, learn from them, be human and be
+      you.” Priyanka Chopra"
+  - name: 'Ariane Larouche '
+    image: images/team/1ariane_2.jpg
+    image_webp: images/team/1ariane_2.webp
+    date: 'VP Carrière '
+    content: "“In the future, there will be no female leaders. There will just be
+      leaders.” Sheryl Sandberg "
+  - name: María José Rosero
+    image: images/team/1majo.jpg
+    image_webp: images/team/1majo.webp
+    date: Trésorière
+    content: '"We must have perserverence and above all confidence in ourselves. We
+      must believe that we are gifted for something. " Marie Curie'

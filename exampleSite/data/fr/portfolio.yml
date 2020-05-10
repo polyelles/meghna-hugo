@@ -1,0 +1,41 @@
+---
+portfolio:
+  enable: true
+  title: Activités
+  portfolio_item:
+  - name: 'Négociation salariale '
+    image: images/portfolio/Affiche_Négo.jpg
+    image_webp: images/portfolio/Affiche_Négo.webp
+    categories:
+    - 'Conférences '
+    content: Cette conférence a pour but de sensibiliser à l'impact du silence entourant
+      ce sujet et plus particulièrement pour les femmes. Vous ressortirez de cet événement
+      avec des trucs concrets pour savoir comment négocier votre salaire!
+    link: "#"
+  - name: 'Think Twice '
+    image: images/portfolio/Affiche_ThinkTwice.jpg
+    image_webp: images/portfolio/Affiche_ThinkTwice.webp
+    categories:
+    - 'Conférences '
+    content: Entretien sur la fondation d'une start-up. Discussion sur la place des
+      femmes dans une compétition de fine technologie telle que Coopérathon. Workshop
+      portant sur les elevators pitch.
+    link: "#"
+  - name: Femmes en consultation
+    image: images/portfolio/1.jpg
+    image_webp: images/portfolio/1.webp
+    categories:
+    - Évènements
+    content: Recontre des employés d’Accenture sur des opportunités de carrière pour
+      des emplois d’analyste en consulting. Présenter la réalité chez Accenture concernant
+      la place des femmes et les actions concrètes mise en place pour atteindre la
+      parité
+    link: "#"
+  - name: Vin et fromage
+    image: images/portfolio/Invitation_V&F_Poly-L.jpg
+    image_webp: images/portfolio/Invitation_V&F_Poly-L.webp
+    categories:
+    - Soirées
+    content: Soirée de réseautage permettant de rencontrer une multitude de professionnels
+      dans des domaines variés d'ingénierie.
+    link: "#"

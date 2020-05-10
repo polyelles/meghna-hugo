@@ -1,0 +1,11 @@
+---
+cta:
+  enable: true
+  bg_image: images/backgrounds/607.jpeg
+  bg_image_webp: images/backgrounds/607.webp
+  title: Contact us
+  content: Contact us for any questions, suggestions or questions.
+  button:
+    enable: true
+    label: Start a project with us
+    link: "#contact"

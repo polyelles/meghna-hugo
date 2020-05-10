@@ -1,0 +1,154 @@
+DefaultContentLanguage = "fr"
+baseURL = "https://polyelles.netlify.com"
+disableLanguages = []
+disqusShortname = ""
+paginate = "6"
+summaryLength = "15"
+theme = "meghna-hugo"
+title = "Poly-L"
+
+[menu]
+  # Sets the menu items in the navigation bar
+  [[menu.main]]
+     name = "Activités"
+     identifier = "activities"
+     url = "activities"
+     pre  = "<i class='far fa-envelope'></i>"
+     weight = 4
+  [[menu.main]]
+     name = "Comité"
+     identifier = "comitee"
+     url = "comitee"
+     pre  = "<i class='far fa-envelope'></i>"
+     weight = 3
+   [[menu.main]]
+     name = "À propos"
+     identifier = "about"
+     url = "about"
+     pre = "<i class='far fa-envelope'></i>"
+     weight = 1
+   [[menu.main]]
+     name = "Implications"
+     identifier = "involvements"
+     url = "involvements"
+     pre  = "<i class='far fa-envelope'></i>"
+     weight = 2
+   [[menu.main]]
+     name = "Témoignages"
+     identifier = "testimonials"
+     url = "testimonials"
+     pre = "<i class='far fa-envelope'></i>"
+     weight = 5
+   [[menu.main]]
+     name = "Contact"
+     identifier = "contact"
+     url = "contact"
+     pre = "<i class='far fa-envelope'></i>"
+     weight = 6
+     
+[Languages]
+   # Each language has its own menu.
+   [Languages.fr]
+     contentDir = "content/french"
+     home = "Accueil"
+     languageCode = "fr-fr"
+     languageName = "Fr"
+     weight = 1
+     
+   [Languages.en]
+     contentDir = "content/english"
+     home = "Home"
+     languageCode = "us-en"
+     languageName = "En"
+     weight = 2
+
+     [[Languages.en.menu.main]]
+       name              = "Activities"
+       identifier        = "activites"
+       url               = "activities"
+       pre               = "<i class='far fa-envelope'></i>"
+       weight            = 4
+
+    [[Languages.en.menu.main]]
+       name              = "Comitee"
+       identifier        = "comitee"
+       url               = "comitee"
+       pre               = "<i class='far fa-envelope'></i>"
+       weight            = 3
+
+    [[Languages.en.menu.main]]
+       name              = "About"
+       identifier        = "about"
+       url               = "about"
+       pre               = "<i class='far fa-envelope'></i>"
+       weight            = 1
+      
+    [[Languages.en.menu.main]]
+       name              = "Involvements"
+       identifier        = "involvements"
+       url               = "involvements"
+       pre               = "<i class='far fa-envelope'></i>"
+       weight            = 2
+      
+    [[Languages.en.menu.main]]
+       name              = "Testimonials"
+       identifier        = "testimonials"
+       url               = "testimonials"
+       pre               = "<i class='far fa-envelope'></i>"
+       weight            = 5
+      
+    [[Languages.en.menu.main]]
+       name              = "Contact"
+       identifier        = "contact"
+       url               = "contact"
+       pre               = "<i class='far fa-envelope'></i>"
+       weight            = 6
+
+[params]
+author = "Themefisher"
+description = "Responsive Multipurpose Parallax HTML5 Template"
+google_analitycs_id = ""
+logo = "images/Logo_mini.png"
+post_share = true
+[params.map]
+enable = true
+gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
+map_latitude = "51.5223477"
+map_longitude = "-0.1622023"
+map_marker = "images/marker.png"
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/themify-icons/themify-icons.css"
+[[params.plugins.css]]
+link = "plugins/magnific-popup/magnific-popup.css"
+[[params.plugins.css]]
+link = "plugins/slick/slick.css"
+[[params.plugins.css]]
+link = "https://fonts.googleapis.com/css?family=Anaheim|Quattrocento+Sans:400,700&display=swap"
+[[params.plugins.js]]
+link = "plugins/jquery/jquery.min.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/slick/slick.min.js"
+[[params.plugins.js]]
+link = "plugins/shuffle/shuffle.min.js"
+[[params.plugins.js]]
+link = "plugins/magnific-popup/jquery.magnific-popup.min.js"
+[[params.plugins.js]]
+link = "plugins/lazy-load/lozad.min.js"
+[[params.plugins.js]]
+link = "plugins/google-map/map.js"
+[params.preloader]
+enable = true
+preloader = "images/Logo_officiel3.png"
+[[params.social]]
+icon = "ti-facebook"
+link = "https://www.facebook.com/polyelles/"
+[[params.social]]
+icon = "ti-linkedin"
+link = "https://www.linkedin.com/company/polyelles/?viewAsMember=true"
+[[params.social]]
+icon = "ti-instagram"
+link = "https://www.instagram.com/polyelles/"

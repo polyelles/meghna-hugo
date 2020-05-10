@@ -1,0 +1,14 @@
+---
+about:
+  enable: true
+  title: About Us
+  about_item:
+  - icon: ti-ruler-pencil
+    title: Study
+    content: Our committee is made up of undergraduate and graduate students.
+  - icon: ti-thought
+    title: Target
+    content: Achieve parity between men and women.
+  - icon: ti-settings
+    title: Engineering
+    content: We are part of the various fields of engineering.

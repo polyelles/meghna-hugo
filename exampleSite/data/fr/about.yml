@@ -1,0 +1,14 @@
+---
+about:
+  enable: true
+  title: À propos
+  about_item:
+  - icon: ti-ruler-pencil
+    title: Études
+    content: Notre comité est composé détudiantes de premier cycle et deuxième cycle.
+  - icon: ti-thought
+    title: Objectif
+    content: Atteindre la parité entre hommes et femmes.
+  - icon: ti-settings
+    title: Ingénierie
+    content: Nous faisons partie des divers domaines de lingénierie.

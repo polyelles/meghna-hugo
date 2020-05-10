@@ -1,0 +1,21 @@
+---
+feature:
+  enable: true
+  image: images/about/DSC_0870 (1).jpeg
+  image_webp: images/about/DSC_0870 (1).webp
+  title: Student committee Polytechnique Montreal University of Engineering
+  content: Achieve parity between men and women at all levels in the workplace.
+  feature_item:
+  - title: PROMOTE
+    icon: ti-angle-double-right
+    content: female leadership for Polytechnique students.
+  - title: 'EXPOSE '
+    icon: ti-angle-double-right
+    content: students to inspiring women to strengthen their ambition.
+  - title: 'RAISE AWARENESS '
+    icon: ti-angle-double-right
+    content: of Polytechnique students to cognitive biases.
+  - title: CREATE
+    icon: ti-angle-double-right
+    content: a spirit of collaboration between men and women by involving men in the
+      reflection and the solution.

@@ -1,0 +1,11 @@
+---
+cta:
+  enable: true
+  bg_image: images/backgrounds/607.jpeg
+  bg_image_webp: images/backgrounds/607.webp
+  title: 'Nous contacter '
+  content: Contactez-nous pour toutes questions, suggestions ou interrogations.
+  button:
+    enable: true
+    label: Écrivez-nous
+    link: "#contact"

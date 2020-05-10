@@ -1,0 +1,15 @@
+---
+funfacts:
+  enable: true
+  bg_image: images/backgrounds/607.jpeg
+  bg_image_webp: images/backgrounds/607.webp
+  counter_item:
+  - title: Female students at Polytechnique fall 2019 (%)
+    icon: ti-pie-chart
+    count: "28"
+  - title: Amount earned by a woman on every dollar earned by men
+    icon: ti-money
+    count: "0.87"
+  - title: Women engineers in Quebec (%)
+    icon: ti-bar-chart
+    count: "13"
