@@ -26,10 +26,8 @@ portfolio:
     image_webp: images/portfolio/1.webp
     categories:
     - Évènements
-    content: Recontre des employés d’Accenture sur des opportunités de carrière pour
-      des emplois d’analyste en consulting. Présenter la réalité chez Accenture concernant
-      la place des femmes et les actions concrètes mise en place pour atteindre la
-      parité
+    content: Présenter la réalité chez Accenture concernant la place des femmes et
+      les actions concrètes mise en place pour atteindre la parité
     link: "#"
   - name: Vin et fromage
     image: images/portfolio/Invitation_V&F_Poly-L.jpg
