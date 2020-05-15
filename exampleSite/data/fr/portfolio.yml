@@ -4,7 +4,7 @@ portfolio:
   title: Activités
   portfolio_item:
   - name: 'Négociation salariale '
-    image: images/portfolio/Affiche_Négo.jpg
+    image: images/portfolio/affiche_nego.pdf
     image_webp: images/portfolio/Affiche_Négo.webp
     categories:
     - 'Conférences '
