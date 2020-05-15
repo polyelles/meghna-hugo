@@ -5,7 +5,7 @@ portfolio:
   portfolio_item:
   - name: 'Négociation salariale '
     image: images/portfolio/affiche_nego.pdf
-    image_webp: images/portfolio/Affiche_Négo.webp
+    image_webp: images/portfolio/affiche_nego.webp
     categories:
     - 'Conférences '
     content: Cette conférence a pour but de sensibiliser à l'impact du silence entourant
