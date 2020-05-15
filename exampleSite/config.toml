@@ -1,5 +1,5 @@
 DefaultContentLanguage = "fr"
-baseURL = "https://polyelles.netlify.com"
+baseURL = "https://polyelles.com"
 disableLanguages = []
 disqusShortname = ""
 paginate = "6"
