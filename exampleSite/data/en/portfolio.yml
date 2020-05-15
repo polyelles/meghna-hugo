@@ -4,8 +4,8 @@ portfolio:
   title: Activities
   portfolio_item:
   - name: Salary negotiation
-    image: images/portfolio/Affiche_Négo.jpg
-    image_webp: images/portfolio/Affiche_Négo.webp
+    image: images/portfolio/affiche_nego.pdf
+    image_webp: images/portfolio/affiche_nego.webp
     categories:
     - Conferences
     content: The aim of this conference is to raise awareness on the impact of the
