@@ -1,8 +1,8 @@
 ---
 feature:
   enable: true
-  image: images/about/DSC_0870 (1).jpeg
-  image_webp: images/about/DSC_0870 (1).webp
+  image: images/about/14.jpg
+  image_webp: images/about/14.webp
   title: Student committee Polytechnique Montreal University of Engineering
   content: Achieve parity between men and women at all levels in the workplace.
   feature_item:
