@@ -56,8 +56,8 @@ sections:
   create: all
   match: "*.toml"
   new_doc_ext: toml
-upload_dir: exampleSite/static/images/teams
-public_path: "/images/teams"
+upload_dir: exampleSite/static/images/team
+public_path: "/images/team"
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
