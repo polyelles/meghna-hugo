@@ -3,91 +3,89 @@ team:
   enable: true
   title: Committee
   team_member:
-  - name: Fatouma Wafy
-    image_webp: images/team/1fatouma_1.webp
-    image: images/team/1fatouma_1.jpg
-    designation: President
-    content: Chemical Engineering
-    social:
-    - icon: ti-linkedin
-      link: https://www.linkedin.com/in/fatouma-wafy-b82615119/
-  - name: Ariane Larouche
-    image_webp: images/team/1ariane_2.webp
-    image: images/team/1ariane_2.jpg
-    designation: VP Career
-    content: Industrial Engineering
-    social:
-    - icon: ti-linkedin
-      link: https://www.linkedin.com/in/ariane-larouche-538b17196/
-  - name: Roséanne Granger
-    image_webp: images/team/1roséanne_7.webp
-    image: images/team/1roséanne_7.jpeg
-    designation: VP Marketing
-    content: Chemical Engineering
-    social:
-    - icon: ti-linkedin
-      link: https://www.linkedin.com/in/ros%C3%A9anne-granger-b86aa5191/
-  - name: Florence Pelletier
-    image_webp: images/team/1florence_3.webp
-    image: images/team/1florence_3.jpg
-    designation: VP Communication
-    content: Industrial Engineering
-    social:
-    - icon: ti-linkedin
-      link: https://www.linkedin.com/in/florence-pelletier-920947139/
-  - name: Julie Gervais-Doyon
-    image_webp: images/team/1julie_4.webp
-    image: images/team/1julie_4.jpg
-    designation: VP Content Web
-    content: Physics Engineering
-    social:
-    - icon: ti-linkedin
-      link: https://www.linkedin.com/in/julie-gervais-doyon-947496197/
-  - name: María José Rosero
-    image_webp: images/team/1majo.webp
-    image: images/team/1majo.jpg
-    designation: Treasurer
-    content: Chemical Engineering
-    social:
-    - icon: ti-linkedin
-      link: https://www.linkedin.com/in/mar%C3%ADa-jos%C3%A9-rosero-toro-35845919b/?fbclid=IwAR1mCHM4XI1mRaFgDLDeoWToaFxkqdUwnkT1ptFyR_a4UWWP2gx4nRUaQgE
-  - name: Fadia Maya Lounici
-    image_webp: images/team/1maya_6.webp
-    image: images/team/1maya_6.jpg
-    designation: VP Logistics
-    content: Industrial Engineering
-    social:
-    - icon: ti-linkedin
-      link: https://www.linkedin.com/in/maya-fadia-lounici-472632197/
   - name: 'Hélène Delisle '
-    image_webp: images/team/1hélène_3.webp
-    image: images/team/1hélène_3.jpeg
-    designation: VP Executive
+    image_webp: images/team/2.webp
+    image: images/team/2.jpg
+    designation: President
     content: Industrial Engineering
     social:
     - icon: ti-linkedin
       link: https://www.linkedin.com/in/helene-delisle-98b6b2150/
+  - name: Florence Pelletier
+    image_webp: images/team/3.webp
+    image: images/team/3.jpg
+    designation: VP Logistic
+    content: Industrial Engineering
+    social:
+    - icon: ti-linkedin
+      link: https://www.linkedin.com/in/florence-pelletier-920947139/
+  - name: Noursen Houidnek
+    image_webp: images/team/11.webp
+    image: images/team/11.jpg
+    designation: VP Marketing
+    content: Software Engineering
+    social:
+    - icon: ti-linkedin
+      link: https://www.linkedin.com/in/houidheknoursen/
+  - name: Caroline Robillard
+    image_webp: images/team/8.webp
+    image: images/team/8.jpg
+    designation: VP Career
+    content: Industrial Engineering
+    social: []
+  - name: Sarah Lussier
+    image_webp: images/team/6.webp
+    image: images/team/6.jpg
+    designation: VP Project
+    content: Industrial Engineering
+    social:
+    - icon: ti-linkedin
+      link: https://www.linkedin.com/in/sarah-lussier-4513b4119/
+  - name: Justine Rhéaume
+    image_webp: images/team/9.webp
+    image: images/team/9.jpg
+    designation: VP External
+    content: Industrial Engineering
+    social:
+    - icon: ti-linkedin
+      link: https://www.linkedin.com/in/justine-rh%C3%A9aume-1b902615a/
+  - name: 'Catherine Bibeau-Lorrain '
+    image_webp: images/team/10.webp
+    image: images/team/10.jpg
+    designation: VP Internal
+    content: Chemical Engineering
+    social:
+    - icon: ti-linkedin
+      link: https://www.linkedin.com/in/catherine-bibeau-lorrain-9654b8153/
+  - name: Fadia Maya Lounici
+    image_webp: images/team/5.webp
+    image: images/team/5.jpg
+    designation: VP Project
+    content: Industrial Engineering
+    social:
+    - icon: ti-linkedin
+      link: https://www.linkedin.com/in/maya-fadia-lounici-472632197/
   - name: Thibault Vialar
-    image_webp: images/team/1thibault_1.webp
-    image: images/team/1thibault_1.jpeg
+    image_webp: images/team/7.webp
+    image: images/team/7.jpeg
     designation: Men Ambassadors
     content: Mechanical Engineering
     social:
     - icon: ti-linkedin
       link: https://www.linkedin.com/in/thibault-vialar-79925511b/?fbclid=IwAR3aFciFK80sgSHFT5m_m1w9KNtsps0Yvd5OF_N0JWm9BeAShTKc9Prl7Ck
-  - name: Léo Lamy-Laliberté
-    image_webp: images/team/1léo_1.webp
-    image: images/team/1léo_1.jpg
+  - name: " Jean-Michel Dotonou"
+    image_webp: images/team/4.webp
+    image: images/team/4.jpg
     designation: Men Ambassadors
     content: Industrial Engineering
     social:
     - icon: ti-linkedin
-      link: https://www.linkedin.com/in/leolamylaliberte/
-  - name: 'Alexandre Lanctôt-Laurin '
-    image_webp: images/team/1ALaurin_1.webp
-    image: images/team/1ALaurin_1.jpg
+      link: https://www.linkedin.com/in/jean-michel-dotonou-999925175/
+  - name: Félix Gagné
+    image_webp: images/team/3(1).webp
+    image: images/team/3(1).jpg
     designation: Men Ambassadors
     content: Industrial Engineering
     social:
     - icon: ti-linkedin
-      link: https://www.linkedin.com/in/alexandre-lanct%C3%B4t-laurin-a7a3a7149/
+      link: https://www.linkedin.com/in/f%C3%A9lix-gagn%C3%A9-b0b74815b/
