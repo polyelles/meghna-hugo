@@ -2,7 +2,6 @@
 author = ""
 date = 2020-10-12T14:00:00Z
 description = ""
-draft = true
 genie = []
 image = "/images/blog/menelika-bekolo-mekomba-portrait1.jpg"
 image_webp = "/images/blog/menelika-bekolo-mekomba-portrait1.webp"
