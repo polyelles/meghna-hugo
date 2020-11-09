@@ -40,6 +40,7 @@ fields:
   label: text
 pages:
 - exampleSite/content/english/blog/arij-hana.md
+- exampleSite/content/english/blog/gabrielle-boismenu.md
 - exampleSite/content/english/blog/ilona-nombalais.md
 - exampleSite/content/english/blog/justine-petrucci.md
 - exampleSite/content/english/blog/margaux-farreng.md
