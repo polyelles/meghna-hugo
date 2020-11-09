@@ -2,7 +2,6 @@
 author = ""
 date = 2020-10-26T14:00:00Z
 description = ""
-draft = true
 genie = []
 image = "/images/blog/yasmine-krabchi-portrait-jpg.jpg"
 image_webp = "/images/blog/yasmine-krabchi-portrait-jpg.webp"
