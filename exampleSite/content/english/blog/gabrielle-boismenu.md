@@ -2,7 +2,6 @@
 author = ""
 date = 2020-09-28T14:00:00Z
 description = ""
-draft = true
 genie = []
 image = "/images/blog/gabrielle-boismenu-projet.jpeg"
 image_webp = "/images/blog/gabrielle-boismenu-projet.webp"
