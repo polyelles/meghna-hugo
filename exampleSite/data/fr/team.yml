@@ -32,7 +32,9 @@ team:
     image: images/team/8.jpg
     designation: VP Carrières
     content: 'Génie Industriel '
-    social: []
+    social:
+    - icon: ti-linkedin
+      link: https://www.linkedin.com/in/caroline-robillard-116bb31ba/
   - name: Sarah Lussier
     image_webp: images/team/6.webp
     image: images/team/6.jpg
